@@ -5,3 +5,6 @@ For recurring players, if the game gets updated for a different version, only ta
 I may tell you if it's needed to add other files and such here. 
 
 As of now, there's no need to bring other files except just the .love game! :D
+
+https://ko-fi.com/yutaai
+For donation appreciation!
