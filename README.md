@@ -6,5 +6,14 @@ I may tell you if it's needed to add other files and such here.
 
 As of now, there's no need to bring other files except just the .love game! :D
 
+Version Definition
+------------------
+First decimal is core full game. 
+
+Second decimal is like feature or visual kind. 
+
+Third decimal is Bug Fixes
+----------------------------
+
 https://ko-fi.com/yutaai
 For donation appreciation!
