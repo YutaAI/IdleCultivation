@@ -1,6 +1,6 @@
 ----------------- Idle Cultivation 0.1.3 -------------------------
 + Simplified the process to run the game. (You only need to run the exe version of it)
-+ Added MacOS folder to add the MacOS capability (For those who are on MacOS system)
++ Added MacOS folder to add the MacOS (For those who are on MacOS system)
 ----------------- Idle Cultivation 0.1.2 -------------------------
 + Added fixed random range of QI generation depending on realms. 
 ----------------- Idle Cultivation 0.1.1 -------------------------
