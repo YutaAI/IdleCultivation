@@ -2,7 +2,7 @@ THE GUIDE
 -----------
 Happy Reading to knowing how to play!
 
-MacOS
+OtherOSs
 -----------
 Make sure to run "Idle Cultivation X.X.X.love", not the "love.exe" 
 For first time players, when you run the .love game, if it asks you for what app to run on, make sure to run it on the "love.exe" which is there in the same folder.
