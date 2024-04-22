@@ -1,3 +1,7 @@
+----------------- Idle Cultivation 0.1.5 -------------------------
++ Fixed Infinite Title Music Loading even when not in Title
++ Removed Button Breaker
++ Fixed Age to work properly
 ----------------- Idle Cultivation 0.1.4 -------------------------
 + Added Title Music
 + Accidental Button that will cause a crash so avoid it for now. 
