@@ -1,3 +1,8 @@
+----------------- Idle Cultivation 0.2.0 -------------------------
++ Added State to put your name there. It will be between the title and the gameplay. 
++ File System Refactored. You can now transfer the save file throughout future versions.
++ Game will restart from title when you reset progress.
++ Updated Readme for info how to find your save file. 
 ----------------- Idle Cultivation 0.1.5 -------------------------
 + Fixed Infinite Title Music Loading even when not in Title
 + Removed Button Breaker
@@ -15,4 +20,3 @@
 ----------------- Idle Cultivation 0.1.1 -------------------------
 + Fixed the End Realm QI bug
 ------------------------------------------------------------------
-Test

@@ -20,6 +20,26 @@ I may tell you if it's needed to add other files and such here.
 
 As of now, there's no need to bring other files except the .love or .exe game. (Not the love.exe)
 
+Save File Guide
+------------------ 
+Use the paths according to your OS System to find your save file.
+
+MacOS: /Users/user/Library/Application Support/LOVE/
+
+Windows XP: C:\Documents and Settings\user\Application Data\LOVE\
+- Alternative: %appdata%\LOVE\
+
+Windows Vista, 7, 8, 10, and 11: C:\Users\user\AppData\Roaming\LOVE
+- Alternative: %appdata%\LOVE\
+
+(For Linux below, inserts shrug here. I am not familar with Linux. If it works for you, then great.)
+Linux: $XDG_DATA_HOME/love/
+- Alternative: ~/.local/share/love/
+
+(For Android Below, I don't expect it to work unless you managed to do it lol. I have no idea on that yet.)
+Android: /data/data/org.love2d.android/files/save/
+Alternative: /sdcard/Android/data/org.love2d.android/files/save/
+
 Version Definition
 ------------------
 First decimal is core full game. 
