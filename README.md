@@ -22,7 +22,7 @@ As of now, there's no need to bring other files except the .love or .exe game. (
 
 Save File Guide
 ------------------ 
-Use the paths according to your OS System to find your save file.
+Use the paths according to your OS System to find your save file. (Look for "Idle Cultivation" folder name)
 
 MacOS: /Users/user/Library/Application Support/LOVE/
 
