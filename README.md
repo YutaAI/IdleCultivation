@@ -27,10 +27,10 @@ Use the paths according to your OS System to find your save file.
 MacOS: /Users/user/Library/Application Support/LOVE/
 
 Windows XP: C:\Documents and Settings\user\Application Data\LOVE\
-- Alternative: %appdata%\LOVE\
+- Alternative: %appdata%\Idle Cultivation
 
 Windows Vista, 7, 8, 10, and 11: C:\Users\user\AppData\Roaming\LOVE
-- Alternative: %appdata%\LOVE\
+- Alternative: %appdata%\Idle Cultivation
 
 (For Linux below, inserts shrug here. I am not familar with Linux. If it works for you, then great.)
 Linux: $XDG_DATA_HOME/love/
