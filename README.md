@@ -40,6 +40,9 @@ Linux: $XDG_DATA_HOME/love/
 Android: /data/data/org.love2d.android/files/save/
 Alternative: /sdcard/Android/data/org.love2d.android/files/save/
 
+If you don't see save.txt file or "Idle Cultivation" folder, then go back one directory up.
+You should see the old game data folders. Delete all the other ones except "Idle Cultivation".
+
 Version Definition
 ------------------
 First decimal is core full game. 
