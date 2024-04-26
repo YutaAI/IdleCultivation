@@ -1,7 +1,5 @@
------------------ Idle Cultivation 0.2.2 -------------------------
-+ Fixed the System Menu again but to prevent save files from being corrupted. 
 ----------------- Idle Cultivation 0.2.1 -------------------------
-+ Fixed System Menu Bug that breaks the game entirely. (Best to start from there I suppose.)
++ System Menu Bug that breaks the game entirely. (Currently not fixed) Avoid that button completely for now. 
 ----------------- Idle Cultivation 0.2.0 -------------------------
 + Added State to put your name there. It will be between the title and the gameplay. 
 + File System Refactored. You can now transfer the save file throughout future versions.
