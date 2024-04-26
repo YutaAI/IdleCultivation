@@ -1,3 +1,5 @@
+----------------- Idle Cultivation 0.2.2 -------------------------
++ Fixed the System Menu again but to prevent save files from being corrupted. 
 ----------------- Idle Cultivation 0.2.1 -------------------------
 + Fixed System Menu Bug that breaks the game entirely. (Best to start from there I suppose.)
 ----------------- Idle Cultivation 0.2.0 -------------------------
