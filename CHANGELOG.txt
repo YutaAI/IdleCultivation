@@ -1,3 +1,5 @@
+----------------- Idle Cultivation 0.2.2 -------------------------
++ Fixed System Menu Bug. (A definite reset in your saves however, this time from there on, you won't need to worry about bug break. Hopefully lol)
 ----------------- Idle Cultivation 0.2.1 -------------------------
 + System Menu Bug that breaks the game entirely. (Currently not fixed) Avoid that button completely for now. 
 ----------------- Idle Cultivation 0.2.0 -------------------------
